@@ -1,26 +1,11 @@
-*************************************************************************
-*************************************************************************
-  ______       ___  ___            ______          _    _ ______  
- / _____)     / __)/ __)          / _____)        | |  | (_____ \ 
-| /      ___ | |__| |__ ____ ____| /     _   _ ___| |  | |_____) )
-| |     / _ \|  __)  __) _  ) _  ) |    | | | |  _ \ \/ /(_____ ( 
-| \____| |_| | |  | | ( (/ ( (/ /| \____| |_| | | | \  /       | |
- \______)___/|_|  |_|  \____)____)\______)____| ||_/ \/        |_|
-                                              |_|
+# CoffeeCupVR
 *************************************************************************
 *************************************************************************
 Welcome to CoffeeCupVR, a VR café experience developed by Emilia Dunmore for the Bath Spa University Undergraduate Creative Computing Extended Realities module. This project is built for the Oculus Quest 3 and currently is not compatible for non-quest headsets.
 This game is a proof-of-concept and does not reflect a final product.
-
 *************************************************************************
 *************************************************************************
- __  __   ___   __    __    ______   ___      ____  __     ___  _  _
- ||  ||  // \\  ||    ||    | || |  // \\     || \\ ||    // \\ \\//
- ||==|| ((   )) \\ /\ //      ||   ((   ))    ||_// ||    ||=||  )/ 
- ||  ||  \\_//   \V/\V/       ||    \\_//     ||    ||__| || || //
-
-*************************************************************************
-*************************************************************************
+How to setup:
 1. Install and setup SideQuest on a PC or Mac.
 2. Connect your Quest to your computer via a link cable and follow the instructions for setup.
 3. Download the CoffeeCupVR-Quest3-Build.apk file within this folder.
